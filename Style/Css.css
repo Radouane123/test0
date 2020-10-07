@@ -1,0 +1,45 @@
+#entete{
+    background-color: green;
+    width: 900px;
+    height: 30px;
+    text-align: right;
+}
+
+.menu1{
+    background-color: olive;
+    margin-right: 30px;
+    width: 100px;
+    border-style: none;
+    margin-top: 5px;
+
+
+}
+#menu{
+    margin-top: 5px;        
+    width: 100px;
+    height: 500px;
+    background-color: yellowgreen;
+}
+#form{
+    margin-left: 200px;
+    margin-top: 6px;
+    width: 400px;
+    background-color: white;
+}
+input{
+    background-color: green;
+}
+select{
+    background-color: green;
+}
+textarea{
+    background-color: green;
+}
+#content{
+    position: absolute;
+    left: 110px;
+    top: 42px;
+    width: 796px;
+    height: 500px;
+    background-color:red;
+}
